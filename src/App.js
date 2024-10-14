@@ -1,10 +1,10 @@
 import './App.css';
-import Home from './Components/Home';
-import About from './Components/About';
+import Home from './components/Home';
+import About from './components/About';
 import Courses from './Courses';
 import Internships from './Internships';
 import Contact from './Contact';
-import Navbar from './Components/Navbar';
+import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
